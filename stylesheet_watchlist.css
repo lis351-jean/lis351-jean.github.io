@@ -1,0 +1,48 @@
+* {
+	color: #F4ECFE ;
+	text-align: center;
+	font-family: "Courier New", "Georgia", serif;
+	margin: 10px;
+	padding: 2px
+}
+
+body {
+	background-color: black;
+}
+
+nav {
+	background-color: #2E54FF;
+	padding: 10px;
+	margin: 60px;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+nav li {
+	display: inline ;
+	padding: 20px;
+	
+}
+
+main{
+	font-family: "Courier New", Helvetica, monospace ;
+
+}
+
+h1{
+	color: #FF3861;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h2{
+	color: #61D9FF;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p {
+	font-family: "Courier New", "Lucinda Console", monospace;
+}
+
+
+li {
+	list-style-type: none;
+}
