@@ -20,11 +20,10 @@ nav {
 nav li {
 	display: inline ;
 	padding: 20px;
-	
 }
 
 main{
-	font-family: "Courier New", Helvetica, monospace ;
+	font-family: "Courier New", "Helvetica", monospace ;
 
 }
 
